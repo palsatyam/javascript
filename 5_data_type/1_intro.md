@@ -73,9 +73,18 @@ A JavaScript variable can hold any type of data.
 The Concept of Data Types
 In programming, data types is an important concept.
 
-To be able to operate on variables, it is important to know something about the type.
-
 Without data types, a computer cannot safely solve this:
 ```
 
 
+
+Example
+--------
+
+```
+let x;       // Now x is undefined
+x = 5;       // Now x is a Number
+x = "John";  // Now x is a String
+
+
+```
