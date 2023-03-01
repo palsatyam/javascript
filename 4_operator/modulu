@@ -1,0 +1,6 @@
+ Subtractions (-){Subtract one number to another number and return the result.}
+Example=>
+   var x = 10;
+   var  y = 5;
+var  results = x-y;
+Console.log(results); // 5
